@@ -26,7 +26,7 @@ type = "int"
 default = 3
 min = 1
 max = 10
-description = "くり返す回数"
+description = "くり返す回数（v0.2.0）"
 
 # API キーなど、秘密にしたい値は env で宣言する。値は Portal の「環境変数」画面で入れる。
 [env.EXAMPLE_API_KEY]
